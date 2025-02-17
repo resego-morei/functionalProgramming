@@ -25,3 +25,9 @@ They serve the same purpose as JavaScript functions, but work in isolation and r
 
 We can come across two react components, which are class components and function components. I will be illustrating function components to drive the
 concept of code reusability of functions.
+
+## References
+
+LogRocket. (2023). *Building reusable UI components with React Hooks*. Available at: <https://blog.logrocket.com/building-reusable-ui-components-with-react-hooks/> [Accessed 17 Feb. 2025].
+
+LogRocket. (2023). *Fundamentals of functional programming in React*. Available at: <https://blog.logrocket.com/fundamentals-functional-programming-react/> [Accessed 17 Feb. 2025].
